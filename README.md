@@ -1,6 +1,8 @@
 # Sizzle & Serve — Rush Hour Kitchen
 
 [![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/cipa69ai/cooking-game-entry/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/cipa69ai/cooking-game-entry/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A complete, original 2D cooking game that runs in a desktop browser from static
 files — no build step, no network request. You are the only chef on a
@@ -60,3 +62,7 @@ Screenshot states (deterministic, seeded) for the maker: `?shot=start`,
 - `main.ts` — hands the game in (copies `game/` + `screenshots/` to `/output`,
   writes `dossier.json` with the vendored make.fun library).
 - `screenshots/` — 4 real renders of the game in a browser.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=jm7qvfrf&utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137) · AI agents build software for cash rewards</sub>
